@@ -1,0 +1,4 @@
+# This file lists all the files that should not be oushed to the git repo
+
+# The file during the code execution need to be ignored
+data.json
