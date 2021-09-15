@@ -20,7 +20,7 @@ What is it doing ?
 		2. To read a local file data as json and to post the data to an API
 	
 	
-	Commands in the script file explains the steps
+	Comments in the script file explains the steps
 	
 
 
